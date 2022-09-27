@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riannie
 - 👀 I’m interested in databases
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R for datacleaning
+- 💞️ I’m looking to collaborate on R for datacleaning for patient data
 - 📫 How to reach me 
 
 <!---

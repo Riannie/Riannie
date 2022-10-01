@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Riannie
+- 👋 Hi, I’m @Rianna
 - 👀 I’m interested in databases
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R for datacleaning for patient data
-- 📫 How to reach me 
+- 🌱 I’m currently learning R by Coursera (Oct 2022)
+- 💞️ I’m looking to collaborate on R for datacleaning and analysis
+- 📫 How to reach me [probably will come]
 
 <!---
 Riannie/Riannie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
